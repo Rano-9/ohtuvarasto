@@ -1,5 +1,6 @@
 .tmp
-__pychache__
 .pytest_cache
+.coverage*
+__pychache__
+/htmlcov
 /venv
-
