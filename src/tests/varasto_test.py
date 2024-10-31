@@ -7,7 +7,7 @@ class TestVarasto(unittest.TestCase):
         self.varastoneg = Varasto(-10,-2)
         self.varastoalku = Varasto(10,2)
         self.varastotäys = Varasto(10,12)
-        self.varasto = Varasto(10)
+        self.varasto = Varasto("10")
 
     def test_konstruktori_luo_tyhjan_varaston(self):
         # https://docs.python.org/3/library/unittest.html#unittest.TestCase.assertAlmostEqual
