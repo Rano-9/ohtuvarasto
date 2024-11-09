@@ -14,7 +14,16 @@ def main():
     print(f"tilavuus = {olutta.tilavuus}")
     print(f"paljonko_mahtuu = {olutta.paljonko_mahtuu()}")
 
+    print("Fillaan tätä")
+    print("Fillaan tätä")
 
+    print("Fillaan tätä")
+    print("Fillaan tätä")
 
+    print("Fillaan tätä")
+    print("Fillaan tätä")
+
+    print("Fillaan tätä")
+    print("Fillaan tätä")
 if __name__ == "__main__":
     main()
